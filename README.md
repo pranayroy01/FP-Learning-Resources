@@ -7,22 +7,22 @@
 
 #Exercises
 
-*As far as exercises go, H-99: Ninety-Nine Haskell Problems and 20 Intermediate Haskell Exercises are good brain teasers.
+* As far as exercises go, H-99: Ninety-Nine Haskell Problems and 20 Intermediate Haskell Exercises are good brain teasers.
 
 #References
 
-*Hoogle is by far the best tool to look up anything Haskell related, even type signatures!
+* Hoogle is by far the best tool to look up anything Haskell related, even type signatures!
 Blog post
 
-*What I wish I knew when learning Haskell is a good read once you’ve read the above literature.
+* What I wish I knew when learning Haskell is a good read once you’ve read the above literature.
 
 #Community
 
-*As far as community goes, there are IRC channels such as #haskell-beginners, the Haskell subreddit and there are also tons of meetups which are great for face-to-face conversations, experience sharing, etc.
+* As far as community goes, there are IRC channels such as #haskell-beginners, the Haskell subreddit and there are also tons of meetups which are great for face-to-face conversations, experience sharing, etc.
 Covering all the material above will take a while, but do not give up. Your efforts will be truly worth it. Last but not least, the Haskell community is incredibly nice, welcoming, and helpful. And they are very smart. In fact, we received incredibly valuable feedback from the last blog posts we published on the subject.
 
 #To summarise
 
-*Read Learn you a Haskell cover to cover.
-*Dip in and out of Real World Haskell as and when necessary.
-*Read Chris Allen’s recommended path to learning Haskell.
+* Read Learn you a Haskell cover to cover.
+* Dip in and out of Real World Haskell as and when necessary.
+* Read Chris Allen’s recommended path to learning Haskell.
